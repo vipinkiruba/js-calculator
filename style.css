@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@500&display=swap');
+button{
+    padding : 20px;
+    margin: 5px;
+}
+body{
+    background: rgb(83, 88, 105);
+}
+.display{
+   
+background: rgb(157, 82, 228);
+width: 300px;
+height: 35px;
+
+}
+.display h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.display2{
+background: greenyellow;
+width: 300px;
+height: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h3{
+    font-family: 'WindSong', cursive;
+}
+a{
+    text-decoration: none;
+    color: tomato;
+    font-family: 'WindSong', cursive;
+
+}
